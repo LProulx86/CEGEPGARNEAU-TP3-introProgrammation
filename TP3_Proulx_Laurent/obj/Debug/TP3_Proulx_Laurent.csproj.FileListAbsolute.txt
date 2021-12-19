@@ -1,0 +1,10 @@
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\bin\Debug\TP3_Proulx_Laurent.exe.config
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\bin\Debug\TP3_Proulx_Laurent.exe
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\bin\Debug\TP3_Proulx_Laurent.pdb
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.csprojAssemblyReference.cache
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.Form1.resources
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.Properties.Resources.resources
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.csproj.GenerateResource.cache
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.exe
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.pdb
+C:\Users\proul\Desktop\Intro prog\TP3\TP3_Proulx_Laurent\TP3_Proulx_Laurent\obj\Debug\TP3_Proulx_Laurent.Enregistrement.resources

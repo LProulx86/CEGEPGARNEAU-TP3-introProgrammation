@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3_Proulx_Laurent", "TP3_Proulx_Laurent\TP3_Proulx_Laurent.csproj", "{B08455A7-4BCA-4999-9346-059CCB2A6257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08455A7-4BCA-4999-9346-059CCB2A6257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08455A7-4BCA-4999-9346-059CCB2A6257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08455A7-4BCA-4999-9346-059CCB2A6257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08455A7-4BCA-4999-9346-059CCB2A6257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4B1538-5EBB-48F3-BA0F-CBA2B80FDF43}
+	EndGlobalSection
+EndGlobal
